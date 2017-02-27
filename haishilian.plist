@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://dbg.vip120.com/app/NetCam.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://dbg.vip120.com/app/haishilian_icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://dbg.vip120.com/app/haishilian_icon@2x.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
