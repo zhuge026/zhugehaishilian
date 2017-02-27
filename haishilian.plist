@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://dbg.vip120.com/app/NetCam.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://dbg.vip120.com/app/haishilian_icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://dbg.vip120.com/app/haishilian_icon@2x.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>标题</string>
+				<string>海视联</string>
 				<key>title</key>
-				<string>副标题</string>
+				<string>点击安装</string>
 			</dict>
 		</dict>
 	</array>
